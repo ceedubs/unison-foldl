@@ -11,7 +11,7 @@ module, and you'll find much better documentation there.
 In a `ucm` session, run the following. Feel free to change `external.foldl` to whatever
 namespace you prefer.
 
-    .> pull https://github.com/ceedubs/unison-dev.git:.foldl.trunk external.foldl
+    .> pull https://github.com/ceedubs/unison-foldl.git:.trunk external.foldl
 
 ## usage
 
